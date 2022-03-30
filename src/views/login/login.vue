@@ -45,15 +45,15 @@ const submitForm = useSubmit(ruleFormRef, ruleForm)
 <style scoped lang="less">
 .login-container {
   .wh();
-  background: url('@/assets/img/bg.svg');
   display: flex;
   align-items: center;
   .login {
     margin-left: 60%;
     width: 30%;
     height: 40%;
-    background-color: @bgColor;
+    background-color: #f0f0f0;
     border-radius: 40px;
+    border: 2px solid #ddd;
     opacity: 0.8;
     h1 {
       width: 100%;
@@ -76,7 +76,7 @@ const submitForm = useSubmit(ruleFormRef, ruleForm)
 }
 .form-item {
   width: 60%;
-  border: 2px solid #d565fe;
+  border: 2px solid #bdb4c0;
   &:nth-child(1) {
     margin-bottom: 30px;
   }
@@ -90,7 +90,7 @@ const submitForm = useSubmit(ruleFormRef, ruleForm)
     .w();
     font-weight: 600;
     font-size: 16px;
-    background-color: #d565fe;
+    background-color: #d0b7da;
   }
 }
 </style>

@@ -1,0 +1,30 @@
+{
+  "id": "3214235",
+  "name": "project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2076270",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "4419091",
+      "name": "区域管理",
+      "font_class": "quyuguanli",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "24272019",
+      "name": "车间",
+      "font_class": "chejian",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    }
+  ]
+}

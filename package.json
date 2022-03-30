@@ -9,8 +9,10 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
+    "ailabel": "^5.1.13",
     "axios": "^0.26.1",
     "element-plus": "^2.1.4",
+    "fabric": "^5.2.1",
     "less": "^4.1.2",
     "pinia": "^2.0.12",
     "pinia-plugin-persist": "^1.0.0",
