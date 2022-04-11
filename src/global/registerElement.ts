@@ -3,6 +3,7 @@ import {
   ElAside,
   ElButton,
   ElCol,
+  ElColorPicker,
   ElContainer,
   ElForm,
   ElFormItem,
@@ -27,7 +28,8 @@ const components = [
   ElHeader,
   ElMain,
   ElSelect,
-  ElOption
+  ElOption,
+  ElColorPicker
 ]
 export default function (app: App): void {
   components.forEach((it) => {
